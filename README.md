@@ -10,4 +10,5 @@ A simple webpage displaying the classic programming greeting.
 - Brief history of "Hello World"
 - Nature-themed visuals
 
-Just open `index.html` in any browser to view.
+## View Options
+[📁 View HTML File](index.html) | [🌐 Live Demo](https://veekode.github.io/HelloWorld/)
